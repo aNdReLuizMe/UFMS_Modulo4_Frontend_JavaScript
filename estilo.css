@@ -46,7 +46,7 @@ fieldset {
 }
 
 .assuntos {
-  display: inline-flex;
+  display: inline;
   margin: 10px 0 10px 0;
 }
 
